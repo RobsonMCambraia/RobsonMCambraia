@@ -1,4 +1,4 @@
-## Olá! Eu sou o Robson Cambraia, estudante de desenvolvimento web!!
+## Olá! Eu sou o Robson Cambraia, estudante de programação!!
 <div align="center">
   <a href="https://github.com/RobsonMCambraia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RobsonMCambraia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
